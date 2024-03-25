@@ -5,3 +5,4 @@
 - 🔬 Arduino thinkerer: ESP32, nrf52
 - 🌩️ Cloud expert
 - 🔍 Formerly Google and Microsoft developer
+- 🥞 Almost-full stack developer (can't align with CSS)
