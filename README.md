@@ -3,6 +3,6 @@
 - 🦀 Learning Rust
 - 🕹️ Mame minuscule contributor
 - 🔬 Arduino thinkerer: ESP32, nrf52
-- 🌩️ Cloud expert
+- 🌩️ Cloud Software Architect
 - 🔍 Formerly Google and Microsoft developer
 - 🥞 Almost-full stack developer (can't align with CSS)
