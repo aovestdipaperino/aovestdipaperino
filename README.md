@@ -10,7 +10,9 @@
 
 **[tokensave](https://github.com/aovestdipaperino/tokensave)** — A code intelligence engine that builds semantic knowledge graphs from your codebase. 31 languages, local-first, zero config. Ships as a CLI and an MCP server for AI-assisted development.
 
-**[bruto-ide](https://github.com/aovestdipaperino/bruto-ide)** — A pluggable TUI IDE framework built with Turbo Vision for Rust. Because sometimes you just want to code in the terminal.
+**[turbo-vision-4-rust](https://github.com/aovestdipaperino/turbo-vision-4-rust)** — Turbo Vision for Rust. The classic Borland TUI framework, reborn for modern Rust — build rich text-based interfaces without leaving the terminal.
+
+**[bruto-ide](https://github.com/aovestdipaperino/bruto-ide)** — A pluggable TUI IDE framework built on top of Turbo Vision for Rust. Because sometimes you just want to code in the terminal.
 
 **[Blink](https://github.com/aovestdipaperino/Blink)** — Kafka-compatible, ultra-low latency message broker built from scratch in Rust.
 
