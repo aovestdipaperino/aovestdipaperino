@@ -1,5 +1,7 @@
 # Hey, I'm Enzo 👋
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/aovestdipaperino?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/aovestdipaperino/stargazers)
+
 **Cloud architect by day. Rust hacker by night.** Former Google and Microsoft engineer building tools that make developers' lives easier — now from Milan.
 
 ### What I'm building
